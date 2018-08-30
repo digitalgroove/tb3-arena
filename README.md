@@ -5,7 +5,8 @@ tb3_gazebo is a Gazebo simulation with turtlebot 3 for recognizing AR Tags.
 ## Installation
 
 ### Requirements
-* Joy Package
+* Joy Package (optional)
+* RQT (optional)
 
 
 `$ sudo apt-get install ros-kinetic-joystick-drivers`
@@ -16,7 +17,12 @@ tb3_gazebo is a Gazebo simulation with turtlebot 3 for recognizing AR Tags.
 $ roslaunch tb3_gazebo tb3_gazebo.launch
 ```
 
+In a new terminal tab you can launch rqt:
 
+```
+$ rqt
+```
+In the Plugins menu, select "Robot Tools", then "Robot Steering".
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
