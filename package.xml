@@ -74,6 +74,11 @@
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>tf2_ros</exec_depend>
 
+  <!-- This is to include the models folder where the AR tags are located -->
+  <export>
+    <gazebo_ros gazebo_model_path="${prefix}/models" />
+  </export>
+
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
