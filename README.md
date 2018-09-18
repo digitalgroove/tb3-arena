@@ -1,10 +1,10 @@
-# TB3 Gazebo Arena
+# tb3_arena Gazebo 
 
-tb3-arena is a Gazebo simulation with turtlebot 3 for recognizing AR Tags
+tb3_arena is a Gazebo simulation with turtlebot 3 for recognizing AR Tags
 
 **Author:** FH Aachen, ROS Summer School 2018
 
-![demo-1](https://github.com/digitalgroove/tb3-arena/blob/master/readme-images/arena.png)
+![demo-1](https://github.com/digitalgroove/tb3_arena/blob/master/readme-images/arena.png)
 
 ## Requirements
 * **ROS Kinetic + Gazebo**
@@ -17,7 +17,7 @@ tb3-arena is a Gazebo simulation with turtlebot 3 for recognizing AR Tags
 If you have an active ROS workspace, clone or download the repository into the src directory of your workspace:
 ```
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/digitalgroove/tb3-arena.git
+$ git clone https://github.com/digitalgroove/tb3_arena.git
 ```
 
 Next install missing dependencies using rosdep install:
