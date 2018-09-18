@@ -1385,7 +1385,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1406,14 +1406,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/1</name>
             </script>
           </material>
@@ -1431,7 +1431,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1452,14 +1452,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/1</name>
             </script>
           </material>
@@ -1481,7 +1481,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1502,14 +1502,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/3</name>
             </script>
           </material>
@@ -1527,7 +1527,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1548,14 +1548,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/3</name>
             </script>
           </material>
@@ -1577,7 +1577,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1598,14 +1598,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/5</name>
             </script>
           </material>
@@ -1623,7 +1623,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1644,14 +1644,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/5</name>
             </script>
           </material>
@@ -1673,7 +1673,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1694,14 +1694,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/7</name>
             </script>
           </material>
@@ -1719,7 +1719,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1740,14 +1740,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/7</name>
             </script>
           </material>
@@ -1769,7 +1769,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1790,14 +1790,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/9</name>
             </script>
           </material>
@@ -1815,7 +1815,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1836,14 +1836,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/9</name>
             </script>
           </material>
@@ -1865,7 +1865,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1886,14 +1886,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_A.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/11</name>
             </script>
           </material>
@@ -1911,7 +1911,7 @@
         <collision name='sign_collision'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1932,14 +1932,14 @@
         <visual name='sign_visual'>
           <geometry>
             <mesh>
-              <uri>model://small_mascor_city_sign_ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
+              <uri>model://ar_tag/meshes/maskor_city_sign_ar_tag_B.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/scripts</uri>
-              <uri>model://small_mascor_city_sign_ar_tag/materials/textures</uri>
+              <uri>model://ar_tag/materials/scripts</uri>
+              <uri>model://ar_tag/materials/textures</uri>
               <name>ARTag/11</name>
             </script>
           </material>
